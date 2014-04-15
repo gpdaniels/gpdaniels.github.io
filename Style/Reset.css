@@ -1,0 +1,46 @@
+A, ABBR, ACRONYM, ADDRESS, APPLET, ARTICLE, ASIDE, AUDIO, B, BLOCKQUOTE, BIG, BODY, CENTER, CANVAS, CAPTION, CITE, CODE, COMMAND, DATALIST, DD, DEL, DETAILS, DFN, DL, DIV, DT, EM, EMBED, FIELDSET, FIGCAPTION, FIGURE, FONT, FOOTER, FORM, H1, H2, H3, H4, H5, H6, HEADER, HGROUP, HTML, I, IFRAME, IMG, INS, KBD, KEYGEN, LABEL, LEGEND, LI, METER, NAV, OBJECT, OL, OUTPUT, P, PRE, PROGRESS, Q, S, SAMP, SECTION, SMALL, SPAN, SOURCE, STRIKE, STRONG, SUB, SUP, TABLE, TBODY, TFOOT, THEAD, TH, TR, TD, VIDEO, TT, U, UL, VAR
+{
+	background: transparent;
+	border: 0 none #000000;
+	font-size: 100%;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	vertical-align: top;
+}
+OL, UL
+{
+	list-style: none;
+}
+BLOCKQUOTE, Q
+{
+	quotes: none;
+}
+Q:before, Q:after
+{
+	content: '';
+}
+TABLE, TABLE TD
+{
+	padding: 0;
+	border: none;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+IMG
+{
+	vertical-align: top;
+}
+EMBED
+{
+	vertical-align: top;
+}
+ARTICLE, ASIDE, AUDIO, CANVAS, COMMAND, DATALIST, DETAILS, EMBED, FIGCAPTION, FIGURE, FOOTER, HEADER, HGROUP, KEYGEN, METER, NAV, OUTPUT, PROGRESS, SECTION, SOURCE, VIDEO
+{
+	display: block;
+}
+MARK, RP, RT, RUBY, SUMMARY, TIME
+{
+	display: inline;
+}
