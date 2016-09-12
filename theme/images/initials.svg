@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="52.82061"
+   height="47.260315"
+   sodipodi:docname="InitialsWhiteBorder.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       id="filter2987"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix2989"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix2991"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1317"
+     inkscape:window-height="744"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="13.350176"
+     inkscape:cx="7.3924688"
+     inkscape:cy="23.454032"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <path
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     d="m 1.338539,15.974838 c -0.1691396,13.616835 18.125876,12.456719 21.78884,9.651324 3.662965,-2.805394 0.853725,18.121244 2.069624,20.212097 1.215902,2.090854 27.427976,-3.119287 26.120465,-18.72672 -1.307511,-15.607433 -34.476093,-15.506551 -34.181994,-11.50452 0.294099,4.002031 6.131127,0.825813 7.398399,1.617203 1.267274,0.791392 -1.392114,4.749271 -3.55332,6.498629 C 18.819347,25.472207 14.028885,26.380202 7.9248336,23.519719 2.9195063,21.174119 2.3320409,10.923518 9.8363021,7.8788268 17.340564,4.8341368 30.758641,14.574644 27.498165,6.323822 24.237689,-1.9270008 1.5076787,2.358003 1.338539,15.974838 z m 40.575962,4.757705 c -1.146197,3.234108 -13.163219,7.755354 -13.997914,7.119399 -0.834697,-0.635955 -0.800184,-10.196941 0.32162,-10.700603 1.121804,-0.503661 14.822491,0.347096 13.676294,3.581204 z m 2.513584,2.42025 c 0.410963,0.09665 5.553413,1.587413 2.31049,8.621595 -3.242923,7.034182 -18.208902,13.617724 -19.099722,11.481716 -0.890821,-2.136009 0.556907,-12.230152 0.894916,-12.560601 0.338011,-0.330448 5.079112,-2.042903 9.169516,-4.004844 3.437024,-1.648552 6.313837,-3.63452 6.7248,-3.537866 z"
+     id="path11"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="zzzzzzzszzzzzzzzzzzsz" />
+</svg>
