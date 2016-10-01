@@ -1,4 +1,4 @@
 # README #
 -------------------------------------------------------------------------------
 
-Website copy hosted on BitBucket
+Website copy hosted on GitHub
